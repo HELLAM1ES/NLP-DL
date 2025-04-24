@@ -1,0 +1,14 @@
+# Données et artefacts à ne pas versionner
+*.csv
+*.joblib
+
+# Environnements virtuels
+NLP_env/
+env/
+venv/
+
+# Fichiers temporaires / système
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pyc
